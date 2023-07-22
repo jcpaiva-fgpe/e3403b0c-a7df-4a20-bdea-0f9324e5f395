@@ -1,2 +1,2 @@
 from re import {{gap}}
-print({{gap}}("J.n", "Jan Jon"))
+print(search("J.n", "Jan Jon"))
