@@ -1,2 +1,2 @@
 from re import {{gap}}
-print({{gap}}({{gap}}, "Jan Jon"))
+print({{gap}}("J.n", "Jan Jon"))
