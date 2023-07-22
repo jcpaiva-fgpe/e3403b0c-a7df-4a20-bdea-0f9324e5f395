@@ -1,2 +1,2 @@
 from re import search
-print({{gap}}({{gap}}, "K. Kowalski").{{gap}}()[0])
+print(search({{gap}}, "K. Kowalski").span()[0])
