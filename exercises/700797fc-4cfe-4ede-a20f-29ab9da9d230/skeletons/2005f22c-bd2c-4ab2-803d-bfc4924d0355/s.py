@@ -1,5 +1,5 @@
 from re import search
-print({{gap}}({{gap}}, "Jan Kowalski").{{gap}}()[0])
+print(search({{gap}}, "Jan Kowalski").span()[0])
 
 # exp output
 # 4
