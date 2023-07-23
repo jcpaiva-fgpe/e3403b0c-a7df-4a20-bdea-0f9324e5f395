@@ -1,0 +1,1 @@
+['konto@usz.edu.pl', 'grzegorz.lyczko@usz.edu.pl', 'help-desk@coca-cola.pl', 'elektryczne_owce@allegro.pl']
