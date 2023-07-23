@@ -6,3 +6,6 @@ Długim szeregiem.
 Żem je znał kiedyś na polskim ugorze,
 Smutno mi, Boże!"""
 print(findall(r"({{gap}})", txt, {{gap}}))
+
+# exp output
+# ['Sto', 'mil']
