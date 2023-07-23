@@ -1,0 +1,1 @@
+<re.Match object; span=(22, 32), match='12.12.2001'>
