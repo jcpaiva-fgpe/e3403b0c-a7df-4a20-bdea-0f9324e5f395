@@ -1,0 +1,1 @@
+['Atrydzi', 'strażą', 'wstydzi', 'ważą', 'cichy', 'pychy']
