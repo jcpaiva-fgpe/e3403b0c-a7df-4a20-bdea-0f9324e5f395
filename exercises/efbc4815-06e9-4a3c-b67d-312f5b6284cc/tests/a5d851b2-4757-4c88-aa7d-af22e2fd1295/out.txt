@@ -1,0 +1,4 @@
+coś 17 3
+niecałkiem 21 10
+ckliwego 32 8
+czcigodnego 45 11
