@@ -6,3 +6,6 @@ Historia się rozwija. Tu też nic się nie dzieje. Ale jest to bardzo fajnie op
 Rozdział III
 Historia się kończy. Tu już zupełnie nic się nie dzieje. Ale nawet to jest fajnie opisane."""
 print(split(r"{{gap}}\n", txt)[1:])
+
+# exp output
+# ['Historia się zaczyna. Tu nic się nie dzieje. Ale jest to fajnie opisane.\n', 'Historia się rozwija. Tu też nic się nie dzieje. Ale jest to bardzo fajnie opisane.\n', 'Historia się kończy. Tu już zupełnie nic się nie dzieje. Ale nawet to jest fajnie opisane.']
