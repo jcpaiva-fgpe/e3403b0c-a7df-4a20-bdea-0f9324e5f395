@@ -12,9 +12,8 @@ txt = """1. Wstęp
 
 def licznik(s):
 	licznik.n += 1
-	return str({{gap[0]}}) + '. '
-licznik.n = 0
-print(sub(r"{{gap[1]}}", licznik, txt))
+	return str(licznik.n) + '. '
+print(sub(r"{{gap}}", licznik, txt))
 
 # exp output
 # 1. Wstęp
